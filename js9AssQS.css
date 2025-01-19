@@ -1,0 +1,69 @@
+body {
+    font-family: Arial;
+  }
+  
+  #mainImg {
+    width: 35%;
+  }
+
+  .red {
+    color:red;
+  }
+  .line{
+    text-decoration: underline black;
+  }
+
+  .box {
+    border: 0.25px solid black;
+    background-color: lightgray;
+    width: 200px;
+    padding: 1rem;
+  }
+  .boxBg{
+    background-color: aqua;
+  }
+  
+  .boxLink {
+    text-decoration: none;
+  }
+  
+  .oldImg {
+    height: 200px;
+    width: 200px;
+    margin-right: 1rem;
+  }
+  
+  #description {
+    background-color: antiquewhite;
+  }
+
+
+  /* Ass QS  JS.............*/
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+.box{
+  height: 100px;
+  width: 80%;
+  border: 2px solid black;
+  background-color: aqua;
+
+}
+.btnStyle{
+  background-color: blue;
+  color: white;
+}
+.h1Style{
+  color: purple;
+  text-decoration: underline black solid;
+}
+
+
+
+
+
+

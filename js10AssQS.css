@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+  
+}
+div{
+    border: 2px solid black;
+    background-color: aqua;
+    height: 200px;
+    width: 80%;
+    margin: auto;
+    
+}
+#btnGenCol{
+    color: red;
+    background-color: yellow;
+    margin-bottom: 5px;
+    border: 2px solid purple;
+}
